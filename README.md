@@ -51,4 +51,4 @@ I actively contribute to and maintain open-source projects, focusing on performa
 
 ## Philosophy
 
-> Build fast. Keep it simple. Ship real things.
+> Keep it Simple
