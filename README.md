@@ -8,12 +8,11 @@ Hey! I'm **Ayaan Dhalait**, a Front-End Web Developer, Python programmer, and fo
 I studied Computer Science at **The Bishop’s Co-Ed School, Pune**.
 
 ##  Links
--  Website: [ayaan.is-a.dev](https://www.ayaan.is-a.dev)
--  Email: [ayaan@ayaan.is-a.dev](mailto:ayaan@ayaan.is-a.dev)
+ Website - [ayaan.is-a.dev](https://www.ayaan.is-a.dev)
+ Email - [ayaan@ayaan.is-a.dev](mailto:ayaan@ayaan.is-a.dev)
 
 ##  Socials
--  GitHub: [AyaanDhalait](https://github.com/AyaanDhalait)
--  LinkedIn: [AyaanDhalait](https://linkedin.com/in/AyaanDhalait)
+  [AyaanDhalait](https://github.com/AyaanDhalait) | [AyaanDhalait](https://linkedin.com/in/AyaanDhalait)
 
 ##  GitHub Stats
 <p align="center">
