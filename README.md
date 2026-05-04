@@ -44,7 +44,7 @@ An exploration into digital biology. This project uses mathematical models to si
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyaanDhalait&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=AyaanDhalait&cc=222&tc=fff&ic=fff&bc=000" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanDhalait&layout=compact&theme=dark&hide_border=true" />
 </p>
