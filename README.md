@@ -9,4 +9,4 @@ I primarily use Python for my system and app related projects and HTML, CSS AND 
 [X/Twitter](https://x.com/AyaanDhalait)
 [Email](mailto:ayaan@ayaan.is-a.dev)
 
-[Github Readme](https://github-readme-streak-stats.herokuapp.com/?user=AyaanDhalait&theme=github-dark&hide_border=true)
+[![Ayaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyaanDhalait)](https://github.com/anuraghazra/github-readme-stats)
