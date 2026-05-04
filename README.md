@@ -1,8 +1,8 @@
 # 🚀 Ayaan Dhalait
 
-**Software Engineer | System Architect | Tech Enthusiast**
+**Software Developer | Full-Stack Web Developer | Tech Enthusiast | Founder @ Dhalait**
 
-I am a results-driven developer with a focus on building high-performance systems and intuitive digital experiences. With a background spanning from early childhood programming to serving as a **Chief Technology Officer**, I specialize in Python-based automation, low-level system design, and performance-oriented web development.
+I am a results-driven developer with a focus on building high-performance systems and intuitive digital experiences. With a background spanning from early childhood programming to serving as a **Chief Technology Officer**, I specialize in Python-based automation, high-end web development and leadership.
 
 ---
 
