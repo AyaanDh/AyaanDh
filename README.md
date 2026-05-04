@@ -4,56 +4,72 @@
   <img src="https://komarev.com/ghpvc/?username=AyaanDhalait&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+<p align="center">
+  <a href="https://x.com/ayaandhalait" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="28" />
+  </a>
+  <a href="https://www.youtube.com/@AyaanDhalait" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="28" />
+  </a>
+  <a href="https://instagram.com/ayaandhalait" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="28" />
+  </a>
+  <a href="https://stackoverflow.com/users/32692079/ayaan-dhalait" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="28" />
+  </a>
+  <a href="https://linkedin.com/in/ayaan-dhalait" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" />
+  </a>
+</p>
+
+---
+
 ## About Me
 
-I am **Ayaan Dhalait**, a Front-End Web Developer and Python Programmer with a strong focus on building clean, functional, and scalable applications.
+I am **Ayaan Dhalait**, a Front-End Web Developer and Python Programmer focused on building clean, scalable, and efficient applications.
 
-- Former **CTO** of the Student Initiative Board (SIB)
-- Founder of **Dhalait**
+- Former **CTO** of the Student Initiative Board (SIB)  
+- Founder of **Dhalait**  
 - Active **Open Source Contributor**
-
-I enjoy creating efficient user interfaces, working with modern web technologies, and developing tools that solve real-world problems.
 
 ---
 
 ## Tech Stack
 
-**Languages & Technologies**
+**Languages**
+- Python  
+- HTML  
+- CSS  
+- JavaScript  
 
-- Python
-- HTML5
-- CSS3
-- JavaScript
-
-**Backend / Cloud**
-
-- Firebase
-- Google Cloud Platform
+**Cloud & Tools**
+- Firebase  
+- Google Cloud Platform  
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyaanDhalait&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyaanDhalait&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaanDhalait&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaanDhalait&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanDhalait&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanDhalait&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## What I Do
+## Focus
 
-- Build modern, responsive web interfaces  
-- Develop Python-based applications and tools  
-- Work with cloud-integrated solutions  
-- Contribute to open-source projects  
+- Frontend architecture and UI systems  
+- Python-based tools and automation  
+- Cloud-integrated applications  
+- Open-source contributions  
 
 ---
 
@@ -61,13 +77,5 @@ I enjoy creating efficient user interfaces, working with modern web technologies
 
 - Email: ayaan@ayaan.is-a.dev  
 - GitHub: https://github.com/AyaanDhalait  
-
----
-
-## Current Focus
-
-- Improving frontend architecture and UI systems  
-- Expanding cloud-based application development  
-- Contributing to impactful open-source projects  
 
 ---
