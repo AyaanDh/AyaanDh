@@ -1,4 +1,4 @@
-# 🚀 Ayaan Dhalait
+#  Ayaan Dhalait
 
 **Software Developer | Full-Stack Web Developer | Tech Enthusiast | Founder @ Dhalait**
 
@@ -6,7 +6,7 @@ I am a results-driven developer with a focus on building high-performance system
 
 ---
 
-### 🛠️ Technical Expertise
+###  Technical Expertise
 
 | Area | Technologies |
 | :--- | :--- |
@@ -17,7 +17,7 @@ I am a results-driven developer with a focus on building high-performance system
 
 ---
 
-### 🏗️ Featured Technical Contributions
+###  Featured Technical Contributions
 
 #### 🔹 [pplayer](https://github.com/AyaanDhalait/pplayer) | *Performance Library*
 A high-efficiency Python library for Pygame. Developed to abstract complex entity logic while maintaining a minimal footprint, enabling smoother character movement and state management in resource-constrained environments.
@@ -33,7 +33,7 @@ An exploration into digital biology. This project uses mathematical models to si
 
 ---
 
-### 💼 Leadership & Impact
+###  Leadership & Impact
 
 * **Former CTO | Student Initiative Board (2025):** Led the technical strategy for student-led initiatives, overseeing digital platform deployment and team coordination.
 * **Systems Thinker:** Passionate about **Minimal UI Theory**—the belief that the most powerful tools should have the simplest interfaces.
@@ -41,7 +41,7 @@ An exploration into digital biology. This project uses mathematical models to si
 
 ---
 
-### 📊 GitHub Insights
+###  GitHub Insights
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=AyaanDhalait&cc=222&tc=fff&ic=fff&bc=000" />
@@ -49,10 +49,11 @@ An exploration into digital biology. This project uses mathematical models to si
 
 ---
 
-### 📧 Get In Touch
+###  Get In Touch
 
 - **Portfolio:** [ayaan.is-a.dev](https://ayaan.is-a.dev/)
 - **LinkedIn:** [linkedin.com/in/ayaan-dhalait](https://www.linkedin.com/in/ayaan-dhalait)
 - **Writing:** [dev.to/ayaandhalait](https://dev.to/ayaandhalait)
+- **X/Twitter** [x.com/AyaanDhalait](x.com/AyaanDhalait)
 
 *"Simplicity Is Key so Keep it Simple"*
