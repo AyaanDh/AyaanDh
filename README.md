@@ -1,11 +1,21 @@
-<h1>Ayaan Dhalait</h1>
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=AyaanDhalait)
-<p>Hey! I'm <strong>Ayaan Dhalait</strong>, a Front-End Web Developer, python programmer and Ex-CTO of the SIB</p>
-<p>I was a student at The Bishops Co-Ed School, Pune where I was studying Computer Science.</p>
-Website: <a href="https://www.ayaan.is-a.dev">www.ayaan.is-a.dev</a><br>
-Email: <a href="mailto:ayaan@ayaan.is-a.dev">ayaan@ayaan.is-a.dev</a><br>
-Social Profiles:
-<a href="https://github.com/AyaanDhalait">Github</a> | 
-<a href="https://linkedin.com/in/AyaanDhalait">Linkedin</a>
-<p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaandhalait&" alt="ayaandhalait" /></p>
+# 👋 Ayaan Dhalait
+
+![Profile Views](https://komarev.com/ghpvc/?username=AyaanDhalait&style=flat-square)
+
+## 🚀 About Me
+Hey! I'm **Ayaan Dhalait**, a Front-End Web Developer, Python programmer, and former **CTO of SIB**.
+
+I studied Computer Science at **The Bishop’s Co-Ed School, Pune**.
+
+## 🌐 Links
+- 🌍 Website: [ayaan.is-a.dev](https://www.ayaan.is-a.dev)
+- 📧 Email: [ayaan@ayaan.is-a.dev](mailto:ayaan@ayaan.is-a.dev)
+
+## 🔗 Socials
+- 💻 GitHub: [AyaanDhalait](https://github.com/AyaanDhalait)
+- 🔗 LinkedIn: [AyaanDhalait](https://linkedin.com/in/AyaanDhalait)
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaandhalait" alt="GitHub Streak" />
+</p>
