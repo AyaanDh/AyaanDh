@@ -56,4 +56,3 @@ An exploration into digital biology. This project uses mathematical models to si
 - **Writing:** [dev.to/ayaandhalait](https://dev.to/ayaandhalait)
 
 *"Simplicity Is Key so Keep it Simple"*
-                                      -Asif Dhalait
