@@ -1,66 +1,59 @@
-# 👋 Hello, I'm Ayaan Dhalait!
+# 🚀 Ayaan Dhalait
 
-### 🚀 Computer Programmer | Web Developer | Former CTO
+**Software Engineer | System Architect | Tech Enthusiast**
 
-I am a 13-year-old software developer based in Pune, India, with a passion for building systems, automation tools, and web applications. My journey started at age 5 with Scratch, and today I focus on creating high-performance tools and minimal UI designs.
-
-- 🎓 **Student** at The Bishop's School.
-- 👨‍💻 **Former CTO** of the Student Initiative Board (2025).
-- 🛠️ **Independent Developer** focusing on system design and low-level computing.
-- 🎯 **Goal**: To graduate with a Computer Science degree and become a Computer Scientist.
+I am a results-driven developer with a focus on building high-performance systems and intuitive digital experiences. With a background spanning from early childhood programming to serving as a **Chief Technology Officer**, I specialize in Python-based automation, low-level system design, and performance-oriented web development.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Expertise
 
-| Category | Tools & Languages |
+| Area | Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript (ES6+), HTML5, CSS3 |
-| **Web Development** | Flask, REST APIs, DOM Architecture, Responsive Design |
-| **Game Dev** | Pygame |
-| **Tools** | Git, GitHub, VS Code, CLI, Web Scraping |
-| **Interests** | System Design, Performance Engineering, Minimal UI Theory |
+| **Languages** | Python (Advanced), JavaScript, HTML5, CSS3, Shell Scripting |
+| **Backend & APIs** | Flask, RESTful API Design, Web Scraping (BeautifulSoup/Selenium) |
+| **System & Tooling** | Git/GitHub, Linux CLI, DOM Architecture, Performance Engineering |
+| **Game & Simulation** | Pygame, Logic-based Simulation Systems |
 
 ---
 
-### 📂 Featured Projects
+### 🏗️ Featured Technical Contributions
 
-#### 🐍 [Digital-Life-Form](https://github.com/AyaanDhalait/Digital-Life-Form)
-A simulator for digital life forms built using Python.
+#### 🔹 [pplayer](https://github.com/AyaanDhalait/pplayer) | *Performance Library*
+A high-efficiency Python library for Pygame. Developed to abstract complex entity logic while maintaining a minimal footprint, enabling smoother character movement and state management in resource-constrained environments.
 
-#### 🎮 [pplayer](https://github.com/AyaanDhalait/pplayer)
-A minimal Python library designed to create playable entities in Pygame with a focus on performance.
+#### 🔹 [Pillow](https://github.com/AyaanDhalait/Pillow) | *Web Architecture*
+A conceptual web browser framework written in Python. This project explores the fundamentals of rendering engines and browser logic, focusing on how data is parsed and displayed from the ground up.
 
-#### 📊 [pyKp130](https://github.com/AyaanDhalait/pyKp130)
-A specialized Python tool for handling CSV data and mathematical operations.
+#### 🔹 [TimeToGo](https://github.com/AyaanDhalait/TimeToGo) | *Automation & Scraping*
+A CLI utility that streamlines travel planning by aggregating real-time hotel and villa data through custom web scraping scripts, reducing manual search time by over 70%.
 
-#### 🏨 [TimeToGo](https://github.com/AyaanDhalait/TimeToGo)
-A CLI-based application that utilizes web scraping to help users find hotels and villas in specific areas.
-
-#### 💻 [Pillow](https://github.com/AyaanDhalait/Pillow)
-A skeleton framework for a web browser built entirely in Python.
+#### 🔹 [Digital-Life-Form](https://github.com/AyaanDhalait/Digital-Life-Form) | *Algorithmic Simulation*
+An exploration into digital biology. This project uses mathematical models to simulate the behavior and evolution of "life forms" within a digital ecosystem.
 
 ---
 
-### 📈 GitHub Stats
+### 💼 Leadership & Impact
 
-![Ayaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyaanDhalait&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanDhalait&layout=compact&theme=radical)
-
----
-
-### 🏆 Certifications & Awards
-* **IndiaFIRST Robotics Award:** Grade A in Robotics Examination.
-* **Cyber Champ Hackathon:** Participated in school web development team competitions.
-* **Certificate of Investiture:** Recognized for leadership and event management.
+* **Former CTO | Student Initiative Board (2025):** Led the technical strategy for student-led initiatives, overseeing digital platform deployment and team coordination.
+* **Systems Thinker:** Passionate about **Minimal UI Theory**—the belief that the most powerful tools should have the simplest interfaces.
+* **Academic Excellence:** Consistently bridging the gap between academic theory at *The Bishop's School* and real-world software application.
 
 ---
 
-### 🤝 Connect with Me
+### 📊 GitHub Insights
 
-- 🌐 [Portfolio Website](https://ayaan.is-a.dev/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ayaan-dhalait)
-- ✍️ [DEV Community](https://dev.to/ayaandhalait)
-- 🐦 [Twitter/X](https://twitter.com/AyaanDhalait)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyaanDhalait&show_icons=true&theme=dark&hide_border=true" alt="Ayaan's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanDhalait&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
+</p>
 
-*"Currently focused on systems, performance, and building the future one line of code at a time."*
+---
+
+### 📧 Get In Touch
+
+- **Portfolio:** [ayaan.is-a.dev](https://ayaan.is-a.dev/)
+- **LinkedIn:** [linkedin.com/in/ayaan-dhalait](https://www.linkedin.com/in/ayaan-dhalait)
+- **Writing:** [dev.to/ayaandhalait](https://dev.to/ayaandhalait)
+
+*"I don't just write code; I design solutions that solve problems before they even appear."*
