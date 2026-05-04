@@ -8,7 +8,7 @@ Former Chief Technology Officer (CTO). Founder of **Dhalait** and active open-so
 
 ## About
 
-I specialize in designing and developing full-stack applications, system-level projects, and developer-focused tools. My work spans from front-end interfaces to backend systems and custom runtimes.
+Hey! I'm Ayaan Dhalait, A 13-year-old who just happens to be a web developer and former CTO. I started my journey in the world of tech when I was a 5-year-old trying out scratch by MIT and ever since then its been a dream of mine to become a computer scientist by gradutating with a Computer Science degree.
 
 ---
 
