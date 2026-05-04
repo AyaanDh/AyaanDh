@@ -12,7 +12,7 @@ I studied Computer Science at **The Bishop’s Co-Ed School, Pune**.
  Email - [ayaan@ayaan.is-a.dev](mailto:ayaan@ayaan.is-a.dev)
 
 ##  Socials
-  [AyaanDhalait](https://github.com/AyaanDhalait) | [AyaanDhalait](https://linkedin.com/in/AyaanDhalait)
+  [Github](https://github.com/AyaanDhalait) | [Linkedin](https://linkedin.com/in/AyaanDhalait)
 
 ##  GitHub Stats
 <p align="center">
