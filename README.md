@@ -43,7 +43,7 @@ An exploration into digital biology. This project uses mathematical models to si
 
 ### 📊 GitHub Insights
 
-[![Ayaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyaanDhalait)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanDhalait&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
