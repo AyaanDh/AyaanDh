@@ -45,8 +45,6 @@ An exploration into digital biology. This project uses mathematical models to si
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=AyaanDhalait&cc=222&tc=fff&ic=fff&bc=000" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanDhalait&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -57,4 +55,5 @@ An exploration into digital biology. This project uses mathematical models to si
 - **LinkedIn:** [linkedin.com/in/ayaan-dhalait](https://www.linkedin.com/in/ayaan-dhalait)
 - **Writing:** [dev.to/ayaandhalait](https://dev.to/ayaandhalait)
 
-*"I don't just write code; I design solutions that solve problems before they even appear."*
+*"Simplicity Is Key so Keep it Simple"*
+                                      -Asif Dhalait
