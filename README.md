@@ -43,10 +43,10 @@ An exploration into digital biology. This project uses mathematical models to si
 
 ### 📊 GitHub Insights
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=AyaanDhalait&show_icons=true&theme=radical" alt="Ayaan's GitHub Stats" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanDhalait&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyaanDhalait&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanDhalait&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
