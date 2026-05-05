@@ -31,6 +31,8 @@ A CLI utility that streamlines travel planning by aggregating real-time hotel an
 #### 🔹 [Digital-Life-Form](https://github.com/AyaanDhalait/Digital-Life-Form) | *Algorithmic Simulation*
 An exploration into digital biology. This project uses mathematical models to simulate the behavior and evolution of "life forms" within a digital ecosystem.
 
+#### 🔹 [dhctl](https://github.com/AyaanDhalait/dhctl) | *Developer Tools*
+A all-in-one developer tool designed to help you work efficiently, push via git, make local servers and more!
 ---
 
 ###  Leadership & Impact
