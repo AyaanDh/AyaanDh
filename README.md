@@ -10,7 +10,7 @@ I am a results-driven developer with a focus on building high-performance system
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | Python (Advanced), JavaScript, HTML5, CSS3, Shell Scripting |
+| **Languages** | Python (Advanced), JavaScript, HTML5, CSS3, Shell Scripting, C++ |
 | **Backend & APIs** | Flask, RESTful API Design, Web Scraping (BeautifulSoup/Selenium) |
 | **System & Tooling** | Git/GitHub, Linux CLI, DOM Architecture, Performance Engineering |
 | **Game & Simulation** | Pygame, Logic-based Simulation Systems |
