@@ -19,19 +19,19 @@ I am a results-driven developer with a focus on building high-performance system
 
 ###  Featured Technical Contributions
 
-#### 🔹 [pplayer](https://github.com/AyaanDhalait/pplayer) | *Performance Library*
+#### 🔹 [pplayer](https://github.com/AyaanDh/pplayer) | *Performance Library*
 A high-efficiency Python library for Pygame. Developed to abstract complex entity logic while maintaining a minimal footprint, enabling smoother character movement and state management in resource-constrained environments.
 
-#### 🔹 [Pillow](https://github.com/AyaanDhalait/Pillow) | *Web Architecture*
+#### 🔹 [Pillow](https://github.com/AyaanDh/Pillow) | *Web Architecture*
 A conceptual web browser framework written in Python. This project explores the fundamentals of rendering engines and browser logic, focusing on how data is parsed and displayed from the ground up.
 
-#### 🔹 [TimeToGo](https://github.com/AyaanDhalait/TimeToGo) | *Automation & Scraping*
+#### 🔹 [TimeToGo](https://github.com/AyaanDh/TimeToGo) | *Automation & Scraping*
 A CLI utility that streamlines travel planning by aggregating real-time hotel and villa data through custom web scraping scripts, reducing manual search time by over 70%.
 
-#### 🔹 [Digital-Life-Form](https://github.com/AyaanDhalait/Digital-Life-Form) | *Algorithmic Simulation*
+#### 🔹 [Digital-Life-Form](https://github.com/AyaanDh/Digital-Life-Form) | *Algorithmic Simulation*
 An exploration into digital biology. This project uses mathematical models to simulate the behavior and evolution of "life forms" within a digital ecosystem.
 
-#### 🔹 [dhctl](https://github.com/AyaanDhalait/dhctl) | *Developer Tools*
+#### 🔹 [dhctl](https://github.com/AyaanDh/dhctl-source-code) | *Developer Tools*
 A all-in-one developer tool designed to help you work efficiently, push via git, make local servers and more!
 
 ---
@@ -47,7 +47,7 @@ A all-in-one developer tool designed to help you work efficiently, push via git,
 ###  GitHub Insights
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=AyaanDhalait&cc=222&tc=fff&ic=fff&bc=000" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=AyaanDh&cc=222&tc=fff&ic=fff&bc=000" />
 </p>
 
 ---
