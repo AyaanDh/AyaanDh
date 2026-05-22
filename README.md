@@ -1,46 +1,64 @@
-<h1 align="center">Ayaan Dhalait</h1>
+<h1 align="center">hey, i'm ayaan 👋</h1>
 
 <p align="center">
-  High School Developer • C++ Programmer • Linux Enthusiast
-</p>
-
-<p align="center">
-  Building desktop apps, terminal tools and web projects with a focus on performance, simplicity and clean design.
+high school student • learning c++ • building random stuff
 </p>
 
 ---
 
-## About Me
+## about me
 
-- High school student passionate about Software Development
-- Mainly work with C++ and Python
-- Build desktop applications, terminal utilities and web apps
-- Interested in systems programming and low level development
-- Daily Linux and Neovim user
+- student developer from india
+- mainly learning and building with c++
+- also use python and sometimes web dev stuff
+- i like terminal apps, linux and customizing my setup
+- trying to become really good at programming
 
 ---
 
-## Tech Stack
+## currently learning
 
-### Languages
+- intermediate c++
+- data structures & algorithms
+- object oriented programming
+- backend development
+- low level programming
+
+---
+
+## tech i use
+
+### languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
 </p>
 
-### Tools & Technologies
+### tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,linux,neovim,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,neovim,firebase" />
 </p>
 
 ---
 
-## What I Build
+## projects i've made
 
-```txt
-> Desktop Applications
-> Terminal Utilities
-> Automation Tools
-> Full Stack Web Apps
-> Experimental Projects
+- terminal banking app
+- small web apps
+- automation scripts
+- random c++ experiments
+- personal projects while learning
+
+---
+
+## current goal
+
+```cpp id="1gptcf"
+int main() {
+    while(true) {
+        learn();
+        build();
+        improve();
+    }
+}
